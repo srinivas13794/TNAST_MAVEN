@@ -697,7 +697,7 @@ function disponmap(layerid,k,points,popup,node){
 			},
 			spiderfyOnMaxZoom: true, showCoverageOnHover: true, zoomToBoundsOnClick: true, singleMarkerMode: false, maxClusterRadius: 30
 		});
-		//break;
+		
 	}	
 	
 	for (var i = 0; i < points.length; i++) {
